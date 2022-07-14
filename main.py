@@ -30,7 +30,7 @@ font = pygame.font.SysFont(None, 200)
 running = True
 numbers_entered = ''
 time_table_number = 3
-time_table_random = random.randrange(1, 12)
+time_table_random = random.randrange(1, 13)
 number_flip = random.randrange(0,2)
 while running:
 
